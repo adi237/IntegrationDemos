@@ -17,4 +17,4 @@
 
 ## Built In Dashboards
 
-![Architecture](./dashboards/BuiltIn_Dashboards.png)
+![Dashboard](./dashboards/BuiltIn_dashboards.png)
